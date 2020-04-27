@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharePreference</string>
+    <string name="title_main_header">آموزش shared preference</string>
+    <string name="hint_fullName">نام و نام خانوادگی</string>
+    <string name="email">ایمیل</string>
+    <string name="sex">جنسیت</string>
+    <string name="man">آقا</string>
+    <string name="woman">خانم</string>
+    <string name="save_information">ذخیره اطلاعات</string>
+</resources>
